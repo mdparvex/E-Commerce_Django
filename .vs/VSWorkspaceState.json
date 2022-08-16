@@ -3,11 +3,9 @@
     "",
     "\\ecommerce",
     "\\store",
-    "\\store\\models",
-    "\\store\\templates",
     "\\store\\templates\\store",
-    "\\store\\uploads"
+    "\\store\\views"
   ],
-  "SelectedNode": "\\store\\uploads\\products",
+  "SelectedNode": "\\store\\views\\home.py",
   "PreviewInSolutionExplorer": false
 }
