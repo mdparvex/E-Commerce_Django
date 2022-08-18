@@ -3,7 +3,7 @@
     "",
     "\\ecommerce",
     "\\store",
-    "\\store\\templates\\store",
+    "\\store\\models",
     "\\store\\views"
   ],
   "SelectedNode": "\\store\\views\\home.py",
